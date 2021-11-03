@@ -1,5 +1,5 @@
 # TwitterTask
- Final project at the course Development of Social Applications at the HTW Berlin
+ Final project of the course Development of Social Applications at the HTW Berlin
 
 The goal of this project is to practice the basics of programming Spark applications using Resilient Distributed Datasets (RDDs). 
 
